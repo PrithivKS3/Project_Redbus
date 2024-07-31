@@ -31,23 +31,23 @@ Screenshots of Streamlit Application🏁:
    Step 1:
          The homepage of the streamlit application where the users can search for route names to get the visualisation of the bus details available for the route.
 
-         ![Screenshot (138)](https://github.com/user-attachments/assets/ff37bdbe-4400-4ecb-8f6f-d54dfd45d17c)
+         https://github.com/user-attachments/assets/ff37bdbe-4400-4ecb-8f6f-d54dfd45d17c
 
    Step 2:
          After searching the routename.Below of the search bar you would get the bus details.In the side navigation bar you can see the filters that can be applied.
 
-         ![Screenshot (139)](https://github.com/user-attachments/assets/00fd2cc5-42ee-42c2-90e3-dd240376a1c8)
+         https://github.com/user-attachments/assets/00fd2cc5-42ee-42c2-90e3-dd240376a1c8
 
    Step 3:
          The user can apply the filters and visualise.For example I have applied the price limit,star rating filter and bus_type that I prefer for a single instance and attached the Screenshot of how the resultant visualisation appears.The user can alter it as per his/her wish for any route available.
 
          1.You can see the bus_type filter that captured in the screenshot.
 
-         ![Screenshot (140)](https://github.com/user-attachments/assets/0c86c8a1-93fc-44a0-9b86-a89b4fcc23f3)
+         https://github.com/user-attachments/assets/0c86c8a1-93fc-44a0-9b86-a89b4fcc23f3
 
          2.You can see the price range of the bus that have been retrieved and the star rating as per we have applied.This Screenshot has same functionality of above screenshot.The continuation of the Screenshot captured to show the visualisation of all filters applied successfully.
 
-         ![Screenshot (141)](https://github.com/user-attachments/assets/75303d48-10cf-42e2-8c54-a6644b4b4166)
+         https://github.com/user-attachments/assets/75303d48-10cf-42e2-8c54-a6644b4b4166
 
 
 
