@@ -1,12 +1,12 @@
 AIM💕:
    
-   To scrape data from Redbus web app and to create a interactive Streamlit application to visualise the bus details of Ten different government transport corporations.Operations involved are Collection of Data,Stroing the data in local database and Creating a Streamlit application to visualise the data.
+   To scrape data of Ten different government transport corporations from Redbus web app and to create a interactive Streamlit application to visualise the bus details. Operations involved are Collection of Data,Stroing the data in local database and Creating a Streamlit application to visualise the data.
 
 Technologies🐱‍🏍:
    
    *IDE's Used-Jupyter Notebook,VS Code,MYSQL Workbench
    
-   *Language-Python with necessary primary libraries like Selenium,Streamlit,Pandas,SQLalchemy and some of secondary libraries/modules are also used for supporting the project which you could see clearly in the Jupyter Notebook and VS code files that I have attached above.In addition to this SQL quries are also used to retrieve the data from the database.
+   *Language-Python with necessary primary libraries like Selenium,Streamlit,Pandas,SQLalchemy,mysql connector and some of secondary libraries/modules are also used for supporting the project which you could see clearly in the Jupyter Notebook and VS code files that I have attached above.In addition to this SQL queries are also used to retrieve the data from the database.
 
 Procedural Explaination✔:(1st file-Jupyter Notebook🎈)==>Redbus_project.ipynb FILE
 
@@ -45,7 +45,7 @@ Screenshots of Streamlit Application🏁:
    Step 3:
          The user can apply the filters and visualise.For example I have applied the price limit,star rating filter and bus_type that I prefer for a single instance and attached the Screenshot of how the resultant visualisation appears.The user can alter it as per his/her wish for any route available.
 
-         3.1.You can see the bus_type filter that captured in the screenshot.
+         3.1.You can see the bus_type filter that captured in the screenshot.Multiple bus_type filter can also be applied.
 
    ![Screenshot (140)](https://github.com/user-attachments/assets/f2be63f8-5808-4051-afca-c5763b712637)
 
@@ -61,6 +61,12 @@ Screenshots of Streamlit Application🏁:
          Atlast,the user can select the bus ID to be booked from the available buses ,as per his filter, from the drop down list under Select bus menu and on clicking the book bus button the seat no and the bus details will be displayed.
 
    ![Screenshot (142)](https://github.com/user-attachments/assets/7d6bda43-3b50-4aa5-8aca-61d653726138)
+
+
+
+
+Result🎉:
+         Successfully scraped data from the redbus application and stored it in a database in first case.Secondly, I have created the Interactive Streamlit application to retrieve the data and visualise it as per user requests, including some working filters in the application.In addition to that, any bus can be selected and booked, to see the specific bus detail and the seat no allocation.
 
 
          
