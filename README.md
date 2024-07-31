@@ -31,23 +31,41 @@ Screenshots of Streamlit Application🏁:
    Step 1:
          The homepage of the streamlit application where the users can search for route names to get the visualisation of the bus details available for the route.
 
-         https://github.com/user-attachments/assets/ff37bdbe-4400-4ecb-8f6f-d54dfd45d17c
+   ![Screenshot (138)](https://github.com/user-attachments/assets/54f424c8-5f2c-4fc2-8a4f-387db0f2016f)
+
+
 
    Step 2:
          After searching the routename.Below of the search bar you would get the bus details.In the side navigation bar you can see the filters that can be applied.
 
-         https://github.com/user-attachments/assets/00fd2cc5-42ee-42c2-90e3-dd240376a1c8
+   ![Screenshot (139)](https://github.com/user-attachments/assets/f1382ca4-3ce1-421e-9ac6-1775fd35ea97)
+
+
 
    Step 3:
          The user can apply the filters and visualise.For example I have applied the price limit,star rating filter and bus_type that I prefer for a single instance and attached the Screenshot of how the resultant visualisation appears.The user can alter it as per his/her wish for any route available.
 
-         1.You can see the bus_type filter that captured in the screenshot.
+         3.1.You can see the bus_type filter that captured in the screenshot.
 
-         https://github.com/user-attachments/assets/0c86c8a1-93fc-44a0-9b86-a89b4fcc23f3
+   ![Screenshot (140)](https://github.com/user-attachments/assets/f2be63f8-5808-4051-afca-c5763b712637)
 
-         2.You can see the price range of the bus that have been retrieved and the star rating as per we have applied.This Screenshot has same functionality of above screenshot.The continuation of the Screenshot captured to show the visualisation of all filters applied successfully.
 
-         https://github.com/user-attachments/assets/75303d48-10cf-42e2-8c54-a6644b4b4166
+
+         3.2.You can see the price range of the bus that have been retrieved and the star rating as per we have applied.This Screenshot has same functionality of above screenshot.The continuation of the Screenshot captured to show the visualisation of all filters applied successfully.
+
+   ![Screenshot (141)](https://github.com/user-attachments/assets/6d36aeb5-4198-422c-b144-3399b44226b5)
+
+
+  
+   Step 4:
+         Atlast,the user can select the bus ID to be booked from the available buses ,as per his filter, from the drop down list under Select bus menu and on clicking the book bus button the seat no and the bus details will be displayed.
+
+   ![Screenshot (142)](https://github.com/user-attachments/assets/7d6bda43-3b50-4aa5-8aca-61d653726138)
+
+
+         
+
+
 
 
 
